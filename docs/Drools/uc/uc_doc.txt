@@ -1,0 +1,183 @@
+current sum long accumul get someth like number long weight holder hard valu loss precis long sum incorrectli return much big decim sum also loss perform sum doubl total significantli slow sum long total integ exampl complex minor we agre argument use number abstract bring valu use case worthless solut propos discuss mario base argument type sum function compil select differ sum function implement similar java overload mechan system select differ method implement system support long long long weight holder hard big decim big decim big decim weight holder hard also support integ big integ work well consid function well differ jira special case number default doubl backward compat number number weight holder hard valu case sum integ long total user use long accumul sum long int weight
+configur lightweight prevent interoper migrat heaver dom element xml fragment
+use differ packag builder per namespac pita
+attach rule base packagebuild allow shell like environ
+current action framework allow action specifi action node howev action could add locat well action node etc action framework gener support kind action well
+allow direct properti access pattern bind allow usag direct properti access pattern bind variabl exampl test auto bind p person chees type p like price c price thenresult add p end
+xml format support variabl paramet use differ datum type like boolean integ object list etc
+need reset memori work memori without cancel event
+add fault node except handler process composit context node core xml ide
+start node automat trigger e g rule activ event signal
+process could listen extern event e g use event node type extern process instanc automat notifi use kind event correl event occur
+discuss drool boot camp add support rule metadata rule xyz foo bar whenend
+discuss drool boot camp add support express enabl rule attribut
+add extend keyword drl grammar rule extend anoth pull entir lh parent current rule execut exampl rule test rule falsewhenc chees type stilton thenlist add new string rule endrul test rule extend test rule chees price lt cthenlist add new string rule endrul test rule extend test rule chees price gt cthenlist add new string rule test misc test
+tempor oper must fix also add support time unit pars
+xml file contain composit resourc support kbase build via configur alway programmat
+updatewizardssupport debug new sessionetc
+allow configur node type use graphic editor
+add jess style accumul function
+instanc equal cross product remov
+add support fact expir chang expir offset take account session clock current time also actual event timestamp
+histori log log inform execut process instanc also allow log node instanc inform databas
+current exist method work memori entri point string return name entri api call expos allow collect entri point gather collect work memori entri point work memori entri point would use mani way allow develop maintain entri point list point use ie gui test rule allow select entri point event otherwis develop forc hold sync inform outsid drool code messi prone bug typic way would hold list entri point creation hope code remov entri point without updat discuss e tirellu ir
+convini helper function schedul rule execut similar manner cron util would specif use case long run session period write datum persist store db file current code follow rule bpolldur string string run system elaps databas string run method work requir extern dummi object trigger dynam gener rule rule pull librari etc current develop control difficult ensur suibtabl trigger therefor cron like function would solv envis everi keyword possibl count loop style formatrul bpoll ever lt mean everi second iter ever lt everi second system elaps databas
+add tag fact properti chang support declar fact chang supportend
+often desir everi execut execut late knowledg base session need agent awar alway check agent late kbase
+chanc get perform improv replac use string buffer string util string builder minimum jvm version drool string builder effici string buffer current use class design use replac string buffer place string buffer use singl thread gener case
+support state node finit state machin
+dynam node act node contain node cleanli connect model separ fragment necessarili link default node incom connect would trigger dynam node trigger node wait node instanc complet continu differ strategi could also allow rule code constriant defin certain fragment activatedth user add addit node instanc runtim even though model part process node wait complet well
+new ap drool grid
+add foral condit element
+lot hard code class object type need refactor make gener work style templat
+knowledg agent use url resourc fine http http except network would nice cach resourc use last know good version
+add jmx support enabl monitor exist instanc
+queri result wrap return list use work memori provid conveini api work result list
+nice new featur bill tarr gener rule jdbc result set simpl use
+hello tri determin iter work memori stream within rule work memori entri point entri work memori entri point system entri point stream string find finid actual text name entri point write rule xxxx way list readabl name entri point session would like list entri point drop applic profil one select one entri point rule insert thank chri
+user might want use verifi valid rule rule
+use listen approach work combin persist process instanc current load notifi use signal approach automat reload necessari process instanc
+drool grid implement lightweight distribut environ version
+creat simpl framework gather datum gener report session use debug purpos
+good report compon caus verifi messag error warn note caus caus exampl redund depend subsumpt creat tree caus
+allow multipl name consequ use branch condit element
+refactor vsm ap new semant local remot grid environ
+uniqu path well sinc contain exact path compon later use refactor highlight peac rule caus problem
+rule builder instanti type resolv add entri dynam import current packag namaspac
+expos org drool runtim rule state rule session rule agenda filter filter int limit rule agenda filter filter int limit expos org drool state session class state session extend work memori ap look function state knowledg session class state knowledg session extend org drool runtim rule state rule session method rule agenda filter filter int limit would like api add switch rule base knowledg base
+creat live querri receiv chang event instead use iter set
+allow rule likewhenthenandwhenev true
+rewriten integr test dynam rule remov yield null pointer except testcod trace origin testcas leap compat alway creat rule base impl void dynam rule remov throw except packag pkg packag rule base impl base new rule base impl base packag pkg null pointer exceptionat nativ method accessor impl nativ method nativ method accessor impl nativ method accessor impl deleg method accessor impl deleg method accessor impl test case test test case test case bare test case test result test result test result protect test result test result test result test case test case test suit test test suit test suit test suit test code modifi integr case dynam rule removalspubl void dynam rule remov unus work memori throw except packag builder builder new packag builder packag drl new input stream reader class resourc stream dynam packag drl new input stream reader class resourc stream dynam packag drl new input stream reader class resourc stream dynam packag drl new input stream reader class resourc stream dynam packag pkg packag rule base impl rule base rule base impl rule base rule base base rule base rule base impl base new rule base impl base instanceof rule base impl rule base rule base impl base base instanceof rule base impl rule base rule base impl base base packag pkg work memori memori base work memori rule base equal rule base packag equal rule base packag rule rule base rule org drool test like stilton equal rule base packag rule rule base rule org drool test like chees equal rule base packag rule rule base packag org drool test equal rule base packag rule base equal rule base packag equal rule base packag rule rule base rule org drool test like stilton equal rule base packag rule rule base rule org drool test like chees equal rule base packag rule rule base packag org drool test equal rule base packag
+camel integr drool pipelin
+expir polici handl engin hint expir offset event caus sever mistak misunderstand user chang expir polici overrid set definit expir offset exampl stock tick event expir caus stock tick event expir memori even rule use tempor oper slide window would retain event time would requir event memori amount time
+allow user clear specif agenda group
+rule place xor group rule exist xor group fire cancel activ xor group
+improv qualiti test add test case clean test code
+decoupl window definit pattern match allow window reus among variou
+come head know would happen one day warn person listen michael alway right long run except predict graphic web browser would take back catastroph someon issu concurr concurr thread heavi load creat work memori issu weak hashmap point singl rule base spawn work memori surpris blah blah anyway one possibl solut call user want updat exist long live work memori chang pass wm rulebas say refresh rule ie method like rule rule base requir work memori pass still keep old weak hash map make non default behaviour scale way default behaviour stack trace use java linux app use simultan thread atth moment never share work memori instanc share thesam rule base thread dump see show thread stick weak hash map call abstract rule base work memori anyon see attempt synchron methodthat entri point work memori definit make theproblem happen less often solv complet anyon knowsani thank per c runnabl weak hash map stale entri weak hash map sourc sourc sourc c runnabl sourc sourc sourc c runnabl weak hash map stale entri weak hash map sourc sourc sourc c runnabl weak hash map stale entri weak hash map sourc sourc sourc c runnabl weak hash map stale entri weak hash map sourc sourc sourc
+current use relat oper string field e g fact gt bbb compar evalu definit entri valu type objec typ valu type strin typ result descr build error evalu gt support type valu type string rule first rule unabl creat restrict liter restrict gt bbb field name rule first rule rule first rule accord oper relat operatori may use whenev type valu desir allow relat oper string field string compar
+main goal featur provid unifi mechan marshal object use persist statu knowledg two differ strategi use info process instanc info marshal variabl persist strategi
+add str evalu list core evalu descript find
+type creat enhanc drl declar construct must retriev knowledg base declar declar string pkg string name declar object must provid getter string packag name name map string object meta datum rule declar object must provid class fact class return creat enhanc class declar object must provid long infer expir return role event infer expir offset none
+refactor default work memori entri point use code
+effect rule date use time machin instead timer servic thing unifi
+possibl support rulebas configur via rule execut set suggest properti constant add support hand rulebas config via rule execut set rulebas config constant static final string config rule execut set modif method probabl catch class cast except throw config rule execut set impl rule execut set impl support rulebas configur via reteoo rule base base new reteoo rule base rule base configur constant confi new jsr fact handl factori final reteoo rule base base new reteoo rule base new jsr fact handl factori
+two main classload drool base around composit class loader idea caus complex unifi
+user abl specifi dynam execut express typesaf do attribut typesaf fals
+rule termin node queri termin node current hard code pleas allow pluggabl factori end develop easili experi differ activ handler
+java class defin drl use declar would good abl defin java enum use declar could strip proprietari guvnor style enum guvnor ui front drl support guvnor current also support enum list valu one enum depend upon valu anoth enum enum fuel valu petrol diesel enum fue deriv valu unlead super unlead bio citi disel fue petrol select fue deriv valu unlead super unlead choos function would still need provid guvnor use restrict runtim
+typesaf workign well decid simplifi appli pattern match object type type also need refactor thing mvel class reader take import thing like enum map key without fall back predic
+left tupl field sink actual need use memori larg volum system memori save answer sink specifi left tupl need
+declar bean e use declar featur metadata attach class field correspond actual annot annot present gener class
+migrat gef rete viewer branch x
+make small modif work memori abstract work memori allow paus restart rule chang consist add boolean paus flag plu gettter setter method inspect loop rule method followspubl synchron void rule agenda filter filter throw fact except fire tri fire true paus amp amp next item filter final fire good let stop rule fire within rule e g want execut extern rule set call call paus work memori rule exit extern process execut call possibl assert fact work memoryand call paus call rule execut call directli applic execut might take long time want option move work memori ra move anoth app server continu fire external call process complet
+like abl rule conflictwhen process assign mr process assign servic machin machin id process assign mr process assign servic machin machin id gt id calcul hard score logic accumul constraint occur calcul hard score complex exampl weight static rule locat spreadwhen mr servic spread spread count number valu lt spread accumul locat mr locat exist mr process assign servic locat calcul hard score spread count valu calcul hard score spread count valu count still use beend
+abl use rule declar control conflict resolut
+link verifi compon provid simpl access inform descript compon associ verifi messag base test add verifi compon constructor base descr public abstract class verifi compon implement compar verifi compon caus privat base descr descr public verifi compon base descr descr descr integr visitor seem work think add test case provid patch git pull request
+gener invok class asm
+trait partial implement interfac attach remov instanc runtim
+would good possibl add option name descript resourc attribut expos resourc attribut go expos yet go implement intern resourc even attribut effect resourc behavior function server document
+jdt compil work good throw whole lot sourc dribbl refactor packag builder build set class compil pass jci last minut trick map error back whenc come yield x speed mani case
+rule builder repeatedli hit class type resolv lookup class even though larg ruleset typic look keep cach packag builder level inject rule builder instanc need
+method determin event pass paramet occur boolean event occur string event string event event occur true return howev rule call like event occur workaround event occur string
+mar edson want chang keyword quit yet sure drastic chang want make syntax think evolv accumul make first optional document new separ function still allow option second boolean express eval without eval wrapper do separ eval accumul think good encapsul intent guard within accumul also anoth opportun remov eval keyword common use case rewrit accumul place eval ce acc small win think make drl look nice especi cep use edso mark ok regard emb express accumul node need separ node use separ need eval keyword
+possibl use express bind variabl particular timer attribut rule parametr timertim expr x bean x delay period thenend
+two distinct set rule might share need common declar type usual intern util build process howev forbid multipl declar fact differ dr ls quick solut remov declar one two might feasibl two file deploy independ well extern declar third file might alway feasibl especi full control dr ls e g gener automat oracquir extern builder recogn equival declar exist one simpli ignor
+implement backward compat binari serial framework knowledg session use googl protobuf framework
+allow creat rule chain graph well detect circular issu necessari add meta datum rule class describ class fact consequ insert modifi retract insert modif also request determin field involv whether popul liter variabl
+ki server provid command advanc time function requir least highli use ki server use cep session
+trait core field map requir field name compat type whenev name e g due interfac name requir could desir defin custom map declar trait xtfield string alia field enddeclar yc field stringend field map onto hard field field even name differ
+seem lot person forget add depend catch throw except use refect probe see necessari class differ requir jar present give back meaning messag
+moment beta node equal constraint e g person age index request creat similar index also comparison constraint e g person gt age
+implement inlin cast describ
+constraint invok constructor primit type argument pass correspond class type follow exampl class person public integ age integ return age rule person new integ integ lt thenendwhen constraint jitt follow except runtim except except jitt new integ integ lt nativ method accessor impl nativ method nativ method accessor impl nativ method accessor impl deleg method accessor impl deleg method accessor impl j unit idea test runner runner arg j unit idea test runner j unit starter stream start j unit starter j unit starter j unit starter nativ method accessor impl nativ method nativ method accessor impl nativ method accessor impl app main app main caus verifi error class condit evaluatord method evalu signatur ljava object lorg intern work memori lorg leav tupl expect find integ stack
+provid dereferenc oper work describ post
+add mechan creat kjar e jar contain inform necessari creat alreadi configur kbase ksession refer use uniqu name programmat maven plugin
+externaliz alway call default constructor make sure impl noth default constructor need refactor code also stop use conveni method
+need big decim support foo dec field gt liter convert big dec etc also big integ hard
+jira explain improv drl parser could use id current eclips ide use rule parser tocreat outlin view base packag descr return pars drl fileretriev import function queri templat packag drl file use later exampl perform determin locat cursor request part rule cursor pars base unsual partic incomplet packag descr return parser tri determin kind locat cursor situat e g begin column constraint insid eval statement retriev paramet defin rule possibl certain locat requestedretriev error warn signal certain syntax error drl place result drl parser could use determin element select base charact select rangeprovid syntax checkingdetermin chang drl changeddo refactoringautomat error although info return parser use think kind reach boundari info current return tri describ possibl enhanc could allow we advanc ide featur use charact number addit line number eclips use charact number instead line column number almost situat charact number describ locat certain charact occur sinc begin file like column sinc begin line although could tri creat map charact number line column number result annoy error relat newlin charact differ differ platform use charact number would elimin element packag descr start current pattern descr line column element packag descr return parser still function descr line columnimport stringsth packag abl use inform advanc featur would necessari element contain start locat ide usual addit pars determin locat element also end although pattern descr end line end column current end locat column descr store thx mic add alreadi sinc necessari code complet abl use inform advanc featur would necessari element contain end locat ide usual addit pars determin end locat nest element much like rule descr contain column descr contain field constraint descr element contain start end locat start end cours locat insid start end locat parent believ alreadi work quit well current implement start locat parser return much info possibl even rule import sinc drl parser use lot drl yet complet finish exampl perform would crucial parser return error encount error tri pars remaind file well tri return much info possibl exampl tri pars follow incomplet rule rule rule class parser ideal return rule descr name rule contain lh one column descr name class start locat end locat sinc end column descr reach yet sinc close bracket miss use work like x releas notic though branch return null similarli use eval current eval descr add rule descr eval close result ide redo lot pars check situat well parser alway return much info avail exampl add subdescr start finish ide would much pars error warn tri give exact locat although previou improv make error return parser alreadi use precis feedback could give exact locat error could return prefer charact start end line number use well current error mostli indic start line rule contain error precis error determin necessari precis error visual automat error solv hope kind explain improv parser could use ide
+idea use dynam proxi support shadow fact chang fact queue shadow refresh propag finish
+forward chain mean fact assert propgat forward throughout network forward propag match take place result rule fire rule event base fire respons chang work backward chain queri base rule attempt fire first necessari match fact fact pull extern sourc
+profil show much time spend iter loop look use singl composit adapt propag avoid use array list instead use custom link list array
+rule engin allow wm querri
+instead clone fact handl array expens creat factori mani object shoudl instead look sort link list need copi inform parent
+would nice construct person null age lt would kind short circuit ideal could do special thing alpha node anoth type join node someth common problem user
+implement alpha node hash object type node improv perform
+would like abl specifi default expir offset event default expir offset use infer expir offset benefit would expir guarante either specifi offset infer rule author requir includ tempor constraint event class design rule yet current behavior expir fix expir offset could default option attribut could add enabl new role type even expir valu fix expir offset expir valu fix fix expir offsetpubl class event new role type even expir valu default new featurepubl class event goal automat event manag time moment either fix expir offset set possibl analys rule determin expir offset manual everi rule must includ tempor constraint sometim tough burden rule featur relat think new behavior would touch code fix implement
+queri abl specifi result process reach termin node
+essenti port x new front end class make semant invok initi output dr point call parser directli lh rh etc
+need count number meet variou criterion exampl suppos sever hundr town object list perhap hundr person object need write rule find town three disabl person incom town resid poor child age add teacher everi shaki jbr syntax think would translat someth like rule array list gt collect person disabl ye incom gt person stuffendrul teacherswhentown town popul gt count arraylist collect person disabl ye incom gt person count size gt teacher realli work town person make easili understand exampl
+current exist condit element implement sequenc node suboptim perform add complex network special constraint requir specif right input adapt node also current implement caus unnecessari work perform instanc trace work do termin node follow exampl packag org droolsqueri person statusp person statu age age exist person statu age gt replac current implement special exist node
+implement support addit predic syntax make gt mandatori pattern blabla xyz
+like abl write constraint determin field valu member collect invers contain keyword propos syntax var name collect picki keyword possibl singl use contain class field expos collect recordnumb work memori bunch record object onecontain object want write rule fire encount acontain record match contain num record record number num field somevalu stuff current workaround record num number gt num problemat predic may
+move jfdi mvel activ maintain champion
+attribut
+need support xml bind descr class start packag descr xml bean similar etc idea provid xml support need use xml author gener tool also provid nativ drool xml format use xslt rule owl etc descr ast class mostli
+inlin jci strip uneed depend like collect lang io logger
+make tm option default help reduc memori usag lage system
+inlin objenesi librari start use remov requir noarg constructor fact class previous shadow proxi requir
+implement programmat rule event listen lifecycl describ
+eclips jdt janino support static import still targtet byetcod
+push pop agneda group expos event model
+stop activ current evalu rule reveiv activ
+rule base return two session stateless session state session
+possibl add invalid rule packag
+j implement test shift drool drool pleas integr j drool look zip alreadi contain everyth uncom test tc j run
+move templat mve drop string templat
+p person p name bob user may write rule way help code gener use statement field constraint eval use someth like mve
+allow express express salienc valu dynam
+debug view show realtim audit log select work memori logger
+builder ide also look packag file directori take account
+current properti assign system properti method need cascad system auto discoveri
+need make sure logic transform implement correct
+moment configur drool work old rete oo engin jar classpath get class find except case request log warn automat switch phreak
+querri allow paramet pass
+move shadow fact core involv creat new classload hold gener class long know packag store datum use
+conflict resolut configur set rule base configur
+assert becom insertmodifi becom object object becom insert updat
+advanc user abl disabl shadow fact use properti set rule base configur
+implement increment accumul collect ce
+object assert object type node match need auto creat object type node rememb ensur futur add rule fact propag
+today use hour develop someth think quit use abil extern code function accumul basic idea common function predefin templat code everi accumul everi rule rule exampl idea instead write someth like bellow everi rule avg number accumul chees price price init doubl total int count action total price count revers total price count result new doubl total count user could simpli use predefin function like avg number accumul chees price price averag price want know much cost give rais employe give depart sum number accumul employe dept x salari salari sum salari whatev user want instead hardcod function think good let pluggabl defin simpl interfac accumul function anyon will creat extern function simpli implement interfac wire use either packag builder configur api configur file mark creat exampl averag accumul drool accumul function constant prefix averag function identifi user use rule file dr xm also provid common function like averag sum count min max etc box sinc realli easi implement function exampl implement averag function one need packag implement accumul capabl calcul averag valu author etirelli class averag accumul implement accumul function protect static class averag datum int count public doubl total javadoc accumul function context object context new averag datum javadoc accumul function object void object context throw except averag datum datum averag datum context datum count datum total javadoc accumul function object object void object object averag datum datum averag datum context datum datum total number valu javadoc accumul function object object void object object valu throw except averag datum datum averag datum context datum count datum total number valu javadoc accumul function result object object result object context throw except averag datum datum averag datum context return new doubl datum count datum total datum count javadoc accumul function revers boolean revers true
+new rule add add new object type node need scan object typd node see contenst assignablefrom ensur propag fact list array list one key part make sure remov redund want propag fact twice match list array list
+stateless session current make useabl allow session inject global event support object
+need integr test durat make sure work
+consid follow scenario declar trait asub intenddeclar x enddeclar trait foofld aenddeclar bar traitabl logic true new modefld xend instanc b bar trait foo valu field fldshould turn trait truth mainten transpar cast goal write rule foo fld fld sub
+add integr test
+add integr test agenda group
+add global resolv global resolv also need also work memori long handl form chain check provid default resolv
+rule obey root node lian eval exist parent chain skip node need skip node refer chain instead skip iter
+ruleflow agenda group unifi sinc specifi attribut rule result one beingoverwritten specif rf g implement use g butth rfg name one use case warn gener case potenti conflict
+implement new datadriven annot rule annot behav eagerli rete
+increment updat featur drool allow increment updat kie base also kie session updat rule differ global defin differ class origin rule differ set global kie session drool explicitli check whether global defin kie base throw error howev increment updat kie base global remov rulebas global remov map global resolv map potenti caus issu e g memori session increment updat global long defin new remov map global resolv see reproduc clone repo run mvn clean test
+prior java possibl disabl constraint jitt set threshold sinc java remov perm gen space long possibl control disabl constraint requir provid new option name threshold possibl configur mani interpret evalu constraint jitt special valu properti gt forc immedi synchron jit advic use test purpos neg number gt disabl default valu
+rule use java class pattern packag test import chees be chees enda type declar class chees creat assignedto rule packag test rather natur class packag org drool prevent effici later lookup declarationus class name key
+possibl bind reason fact work memori current rule import rememb deriv fact time constant
+get runtim want inspect rule e g salienc etc via drool ap current way retriev kind inform via intern drool ap ie rule impl would nice could expos rule attribut via public ap
+take give condit element turn child rete network
+need audit file logger work state stateless session event manag method need refactor common interfac
+current configur dialect hard code main packag builder configur need refactor configur also pluggeabl
+allow clip style templat column
+need integr test retract assert modifi also make sure object object object work
+rule base configur allow user specifi custom handler consequ except
+like oversight howev keep stateless natur api anoth way add method interfac unfortun
+know method name descr move param onto singl line use indexof fine start descr compil code use find offiset map error complex error handl need rework compil problem object stuff insid rule error seper rule error henc multipl line error
+user want abl add amp amp insid column outsid column result multipl sub rule howev insid column result nest valu insid singl alpha node amp amp howev use still result alpha node per entri
+lh normal constraint coerc string gt date via date factori make mvel action date liter string rather guff go setup date
+action ruleflow support mve also support dialect like java
+add lock unlock rule base setup rulebas listen progat rule call
+allow predic nest insid field constraint
+edson say might alreadi issu find look someth like queen horizont long accumul queen id queen gt id count
+need test effect date
+set rule base use assert behavior expect abl use fact handl method retriev previous assert fact provid equival equal code object argument appear case abstract work memori use map associ ident assert map compar fact handl lookup instead map equal assert map compar caus lookup do system code method overrid version suppli fact class lookup thu fail return see attach unit test
+add logic assert test
+alway want use rule constraint also allow dialect eval type decis
+parser detect class field assign liter descr set field call field valu true
+add contain match person foo simpl extens contain featur sytax person contain person lt lt person lt lt prefer natur possibl
+need async assert mean fact assert immedi return intern base queue one one assert stack item work memori need ot make sure user handl async might also set phase commit call rule call everi assert set time period x fact assert mayb combin initi probabl esiest call rule assert queue recommend thechannel code stuff borrow take hte class need refactor org drool util concurr
+current rule base directli coupl packag compil datum need around dialect framework
+enhanc xm process definit languag
+context introduc new concept easili group node certain use basi variabl except swimlan
+support timer workflow languag
+need pluggabl schedul api drool compon code protect underli implement also need default jdk schedul thread pool executor well quartz impl
+remov shadow proxi impement except minim support interfac alon leav user implement need
